@@ -1,0 +1,22 @@
+django-admin // command line 
+
+how to create django new file ?
+open command prompt for created new folder 
+
+django-admin startproject firstproject
+
+
+__init__.py // Blank python script file and Django will consider the particular folder as python package. 
+
+settings.py // project settings, configurations, installed applications, middleware configurations.
+
+urs.py //w3.schools/python --> each and every link as urls // url-patterns will be stroed in this py file. //
+
+wsgi.py // Web server Gateway Interface--->This file is used when we deploy our application in production server
+Production server --> DEV environemnet --> UAT User Acceptance Test Environment-->PROD -->asgi.py --> Asynchronous
+
+Manage.py //One of the used file for DJango// running our server, running tests, Migration creating.
+
+
+ 
+
