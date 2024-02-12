@@ -1,0 +1,23 @@
+Everything is python file 
+
+open cmd 
+
+run server 
+
+>python manage.py runserver
+
+ http://127.0.0.1:8000/ 
+
+127.0.0.1---> IP address - local host
+8000 - port No. 
+
+Web server: 
+providing environment to run web applications
+Server --> HTTPRequest <-web componenets--> HTTPResponse
+
+VLC media player --> Song play button, pause button --> Song
+
+Webserver Ready 
+Django Project -- first project also ready 
+
+ 
